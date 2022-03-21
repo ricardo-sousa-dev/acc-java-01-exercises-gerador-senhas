@@ -1,0 +1,13 @@
+{
+    "requirements": [
+      {
+        "description": "1 - Gerar senha",
+        "bonus": false
+      },
+      {
+        "description": "2 - Escrever senha em arquivo",
+        "bonus": false
+      }
+    ]
+}
+  
